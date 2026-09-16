@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "DSPARSE.dll",
+  "latest": "3779774972-8FA49081BBE43D8CBFF3D9797D087DB2-1",
+  "builds": [
+    {
+      "key": "3779774972-8FA49081BBE43D8CBFF3D9797D087DB2-1",
+      "timestamp": "3779774972",
+      "pdb_guid": "8FA49081BBE43D8CBFF3D9797D087DB2",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3779774972-8FA49081BBE43D8CBFF3D9797D087DB2-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
